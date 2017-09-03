@@ -7,3 +7,9 @@ Not much, really.
 ## How does it look like?
 
 ![Something like this](https://github.com/kreatemore/gibberish/blob/master/output.png?raw=true)
+
+## But... why?
+
+Saw this, and had an urge to do something similar:
+
+![Some reddit post, that I've lost the link to](https://i.redd.it/2d1y0qasgjjz.jpg)
