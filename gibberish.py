@@ -50,10 +50,15 @@ def get_number_of_characters_to_print():
         return NUMBER_OF_CHARACTERS_TO_PRINT_BY_DEFAULT
 
 
-if __name__ == '__main__':
-    arguments = sys.argv
+def generate_gibberish():
     gibberish_stuff = u''
-    number_of_characters = get_number_of_characters_to_print()
     for i in range(0, number_of_characters):
         gibberish_stuff += get_colored_character()
+    return gibberish_stuff
+
+
+if __name__ == '__main__':
+    arguments = sys.argv
+    number_of_characters = get_number_of_characters_to_print()
+    gibberish_stuff = generate_gibberish()
     print(gibberish_stuff)
