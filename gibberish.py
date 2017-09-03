@@ -43,7 +43,7 @@ def get_random_index_from(array):
     return random.randint(0, len(array) - 1)
 
 
-def get_number_of_characters_to_print():
+def get_number_of_characters_to_print(arguments):
     try:
         return int(arguments[1])
     except (IndexError, TypeError):
@@ -59,6 +59,6 @@ def generate_gibberish():
 
 if __name__ == '__main__':
     arguments = sys.argv
-    number_of_characters = get_number_of_characters_to_print()
+    number_of_characters = get_number_of_characters_to_print(arguments)
     gibberish_stuff = generate_gibberish()
     print(gibberish_stuff)
