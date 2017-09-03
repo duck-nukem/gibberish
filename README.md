@@ -6,4 +6,4 @@ Not much, really.
 
 ## How does it look like?
 
-Screenshot comes here, m8
+![Something like this](https://github.com/kreatemore/gibberish/blob/master/output.png?raw=true)
