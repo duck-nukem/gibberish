@@ -10,6 +10,6 @@ Not much, really.
 
 ## But... why?
 
-Saw this, and had an urge to do something similar:
+Saw ![this](https://www.reddit.com/r/softwaregore/comments/6xp67t/this_happens_whenever_i_try_to_reboot_some/), and had an urge to do something similar:
 
 ![Some reddit post, that I've lost the link to](https://i.redd.it/2d1y0qasgjjz.jpg)
