@@ -31,7 +31,7 @@ def get_number_of_characters_to_print(arguments):
 
 def generate_gibberish():
     gibberish_stuff = u''
-    for i in range(0, number_of_characters):
+    for _ in range(0, number_of_characters):
         gibberish_stuff += get_colored_character()
     return gibberish_stuff
 
